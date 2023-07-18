@@ -1,4 +1,4 @@
-# practical_2 😍📲
+# Assignment practical-2 😍📲
 
 A new Flutter project.
 
